@@ -11,7 +11,7 @@
 </div>
 
 ## Hello, welcome and be my guest!
-- 😄 I'm Igor and i'm studying Java using Spring framework learn build APIs and creating the front-end interfaces using Thymeleaf framework with bootstrap for styling.
+- 😄 I'm Igor and i'm studying Java using Spring framework learning develop APIs and creating the front-end interfaces using Thymeleaf framework with bootstrap for styling.
 - 🎮 In my free time I enjoy playing videogames and watch some TV shows. I also training everyday to become a bodybuilding.🏋️
 - 👇 Down here you can find the projects I'm proudest.
 
